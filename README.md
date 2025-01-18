@@ -42,11 +42,10 @@ This project involves building an advanced image recognition system using machin
 
 Clone the repository and switch to the tushar branch:
 ```bash
-git clone https://github.com/vinayykkumar/Visionary-Advanced-Image-Recognition-for-the-Next-Era_Infosys_Internship_Oct2024.git
+git clone https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era.git
 
-cd Visionary-Advanced-Image-Recognition-for-the-Next-Era_Infosys_Internship_Oct2024
+cd Advanced-Image-Recognition-for-the-Next-Era
 
-git checkout tushar
 
 ```
     
