@@ -78,8 +78,7 @@ streamlit run app.py
 **Input Interface**
 
 User Interface Using Streamlit
-![Screenshot_20241227_095140](https://github.com/user-attachments/assets/96ae9d74-b91a-41c7-8db9-e8dedcd1a223)
-
+images/Streamlit.png
 
 **Prediction Results**✅
 
@@ -89,12 +88,10 @@ We took 4 Classes dataset Containing
 
 **An image of Akshay Kumar was uploaded, and the model accurately identified it, demonstrating its reliability and precision.**
 
-<img width="1920" height="2276" alt="output ok" src="https://github.com/user-attachments/assets/3c3c94cc-c0a3-44d3-9f23-bbbe72ec3803" />
-
-
+images/output ok.png
 **Additional images were tested to validate the model's accuracy and ensure correct predictions in diverse scenarios.**
 
 
-<img width="1920" height="2526" alt="output false" src="https://github.com/user-attachments/assets/98732160-048c-42a2-bf8c-f6df1b7342b1" />
+images/output false.png
 
 
