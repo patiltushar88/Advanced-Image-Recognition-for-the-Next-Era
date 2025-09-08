@@ -78,7 +78,8 @@ streamlit run app.py
 **Input Interface**
 
 User Interface Using Streamlit
-images/Streamlit.png
+Advanced-Image-Recognition-for-the-Next-Era/images
+/Streamlit.png
 
 **Prediction Results**✅
 
