@@ -93,6 +93,4 @@ We took 4 Classes dataset Containing
 **Additional images were tested to validate the model's accuracy and ensure correct predictions in diverse scenarios.**
 <img width="1920" height="2526" alt="output false" src="https://github.com/user-attachments/assets/befa5fd9-59aa-4996-b19b-35d178e1c3ca" />
 
-images/output false.png
-
 
