@@ -89,10 +89,12 @@ We took 4 Classes dataset Containing
 
 **An image of Akshay Kumar was uploaded, and the model accurately identified it, demonstrating its reliability and precision.**
 
-![output ok](https://github.com/user-attachments/assets/2e480595-886c-4098-ba07-6c212eeabf28)
+<img width="1920" height="2276" alt="output ok" src="https://github.com/user-attachments/assets/3c3c94cc-c0a3-44d3-9f23-bbbe72ec3803" />
+
 
 **Additional images were tested to validate the model's accuracy and ensure correct predictions in diverse scenarios.**
 
-![output false](https://github.com/user-attachments/assets/b75e5e97-2e88-4497-840a-266ddfab8eff)
+
+<img width="1920" height="2526" alt="output false" src="https://github.com/user-attachments/assets/98732160-048c-42a2-bf8c-f6df1b7342b1" />
 
 
