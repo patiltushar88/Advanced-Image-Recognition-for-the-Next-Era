@@ -78,9 +78,9 @@ streamlit run app.py
 **Input Interface**
 
 User Interface Using Streamlit
-
+[
 [Advanced-Image-Recognition-for-the-Next-Era/images
-/Streamlit.png](https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/main/images/Streamlit.png)
+/Streamlit.png](https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/main/images/Streamlit.png)]
 
 **Prediction Results**✅
 
@@ -90,9 +90,9 @@ We took 4 Classes dataset Containing
 
 **An image of Akshay Kumar was uploaded, and the model accurately identified it, demonstrating its reliability and precision.**
 
-images/output ok.png
+[images/output ok.png](https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/41df25d91e6b37680bc87cad8a3aa2eea2965169/images/output%20false.png)
 **Additional images were tested to validate the model's accuracy and ensure correct predictions in diverse scenarios.**
-
+https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/41df25d91e6b37680bc87cad8a3aa2eea2965169/images/output%20ok.png
 
 images/output false.png
 
