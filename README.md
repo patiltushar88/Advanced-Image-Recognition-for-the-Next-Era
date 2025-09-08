@@ -78,7 +78,8 @@ streamlit run app.py
 **Input Interface**
 
 User Interface Using Streamlit
-! [ img alt](https://raw.githubusercontent.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/main/images/Streamlit.png?raw=true)
+<img width="1833" height="481" alt="Streamlit" src="https://github.com/user-attachments/assets/03a423a3-ddb1-4cd1-a307-d9ba18338754" />
+
 
 **Prediction Results**✅
 
@@ -87,10 +88,10 @@ We took 4 Classes dataset Containing
 **Akshay Kumar, Vijay , Prabhas , Amithabh Bacchan**
 
 **An image of Akshay Kumar was uploaded, and the model accurately identified it, demonstrating its reliability and precision.**
+<img width="1920" height="2276" alt="output ok" src="https://github.com/user-attachments/assets/2b9c304c-22bf-4684-bd35-cdd6ade22f4c" />
 
-[images/output ok.png](https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/41df25d91e6b37680bc87cad8a3aa2eea2965169/images/output%20false.png)
 **Additional images were tested to validate the model's accuracy and ensure correct predictions in diverse scenarios.**
-https://github.com/patiltushar88/Advanced-Image-Recognition-for-the-Next-Era/blob/41df25d91e6b37680bc87cad8a3aa2eea2965169/images/output%20ok.png
+<img width="1920" height="2526" alt="output false" src="https://github.com/user-attachments/assets/befa5fd9-59aa-4996-b19b-35d178e1c3ca" />
 
 images/output false.png
 
